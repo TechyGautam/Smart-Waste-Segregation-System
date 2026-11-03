@@ -191,7 +191,8 @@ The model supports six waste categories:
 Smart-Waste-Segregation/
 │
 ├── app.py
-├── model.py
+├── model.ipynb
+|-- model_evalution.ipynb
 ├── requirements.txt
 ├── README.md
 │
@@ -199,9 +200,9 @@ Smart-Waste-Segregation/
 │   ├── best_waste_cnn.keras
 │   └── class_names.json
 │
-├── assets/
-│   ├── home.png
-│   └── result.png
+├── screenshots/
+│   ├── demo_2.png
+│   └── demo_1.png
 │
 └── ...
 ```
@@ -213,8 +214,8 @@ Smart-Waste-Segregation/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_PROJECT_FOLDER
+git clone https://github.com/TechyGautam/Smart-Waste-Segregation-System.git
+cd Smart-Waste-Segregation-System
 ```
 
 ### 2. Create a Virtual Environment
@@ -244,7 +245,7 @@ pip install -r requirements.txt
 ### 4. Run the Application
 
 ```bash
-streamlit run app.py
+py -m streamlit run app.py
 ```
 
 Open the local URL displayed in your terminal, usually:
