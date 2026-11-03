@@ -168,7 +168,7 @@ The model supports six waste categories:
 
 | Waste Image Upload | Prediction Result |
 |---|---|
-| ![Home Page](assets/home.png) | ![Prediction Result](assets/result.png) |
+| ![Demo_1](screenshots/demo_2.png) | ![Demo_2](screenshots/demo_3.png) |
 
 *Add your application screenshots to the `assets/` directory.*
 
