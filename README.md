@@ -14,7 +14,7 @@ AI-powered waste classification using Deep Learning
 
 **Team SOLOFORGE** · *One Mind. One Mission. One Creation.*
 
-[🌐 Live Demo](#-live-demo) · [🚀 Quick Start](#-quick-start) · [📊 Model Performance](#-model-performance) · [🔮 Roadmap](#-roadmap)
+[🌐 Live Demo](https://waste-system.streamlit.app/) · [🚀 Quick Start](#-quick-start) · [📊 Model Performance](#-model-performance) · [🔮 Roadmap](#-roadmap)
 
 </div>
 
@@ -258,7 +258,7 @@ http://localhost:8501
 
 ## 🌐 Live Demo
 
-🔗 **Streamlit App:** Coming soon
+https://waste-system.streamlit.app/
 
 ## 🔮 Roadmap
 
