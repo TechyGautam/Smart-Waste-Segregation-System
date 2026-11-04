@@ -166,9 +166,7 @@ The model supports six waste categories:
 
 ## 🖥️ Application Preview
 
-| Waste Image Upload | Prediction Result |
-|---|---|
-| ![Demo_1](screenshots/demo_2.png) | ![Demo_2](screenshots/demo_3.png) |
+![EcoSort AI Screenshot](screenshots/r1.png)
 
 *Add your application screenshots to the `assets/` directory.*
 
